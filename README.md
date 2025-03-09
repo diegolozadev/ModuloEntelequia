@@ -15,7 +15,6 @@ Este proyecto es un **módulo de administración y visualización de productos**
 
 ## 📂 Estructura del Proyecto
 
-```plaintext
 ModuloEntelequia/
 ├── config/
 │   └── database.php
@@ -30,10 +29,9 @@ ModuloEntelequia/
 ├── sql/
 │   └── entelequia.sql    # Script de la base de datos
 ├── index.php
-├── README.md
+├── README.md´´´
 
-
-## ✅ Requisitos
+### ✅ Requisitos
 XAMPP / LAMP / WAMP (Servidor PHP + MySQL).
 PHP >= 7.4.
 MySQL >= 5.7.
