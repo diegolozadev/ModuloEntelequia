@@ -35,7 +35,7 @@ Este proyecto es un **módulo de administración y visualización de productos**
 Coloca el proyecto en la carpeta de tu servidor web (por ejemplo, htdocsen XAMPP) y accede a través de tu navegador.
 
 ### 📝 Descripción de Archivos
-  config/database.php: Contiene la configuración de la base de datos.
+  config/database.php: Contiene la configuración de la base de datos.<br>
   controllers/productController.php: Controlador para gestionar los productos.
   *models/productModel.php:* Modelo para interactuar con la base de datos.
   *views/viewAdministrator.php:* Vista para los administradores.
