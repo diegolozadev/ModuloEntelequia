@@ -26,7 +26,7 @@ Este proyecto es un **módulo de administración y visualización de productos**
   git clone https://github.com/diegolozadev/ModuloEntelequia.git
 
 ### Configurar la base de datos :
-  Abra el archivo sql/entelequia.sqly ejecute el script SQL en su base de datos MySQL.
+  Abra el archivo sql/entelequia.sql y ejecute el script SQL en su base de datos MySQL.
 
 ### Configure la conexión a la base de datos :
  Abra el archivo config/database.php y ajuste los parámetros de conexión según su configuración de base de datos.
